@@ -1,0 +1,12 @@
+[
+    {
+      "icon": "📞",
+      "title": "Contact Us",
+      "details": "+91-9876543210 | support@example.com"
+    },
+    {
+      "icon": "📍",
+      "title": "Address",
+      "details": "123 Business Street, Lucknow, India"
+    }
+  ]
